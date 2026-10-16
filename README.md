@@ -23,3 +23,4 @@ Open `index.html` in a browser.
 - `styles.css`: visual styling and responsive layout
 - `script.js`: mobile navigation and footer year
 - `Eric_Carter_Healthcare_IT_Resume.docx`: downloadable resume
+Deployment test: GitHub to Vercel connection verified.
